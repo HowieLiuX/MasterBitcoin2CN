@@ -21,7 +21,7 @@
 * [第十二章 比特币应用](ch12.md)
 
 ## 附录部分
-* [附录1：比特币白皮书](appdx-bitcoinwhitepaper.html.md)
+* [附录1：比特币白皮书](appdx-bitcoinwhitepaper.md)
 * [附录2：交易脚本语言操作符，常量和符号](appdx-scriptops.md)
 * [附录3：比特币改进建议（BIPs）](appdx-bips.md)
 * [附录4：隔离见证](appdx-segwit.md)
